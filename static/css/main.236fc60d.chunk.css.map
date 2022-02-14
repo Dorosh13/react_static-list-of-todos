@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/UserInfo/UserInfo.scss"],"names":[],"mappings":"AAAA,OACE,SAAU","file":"main.236fc60d.chunk.css","sourcesContent":[".email {\n  color: red;\n}\n"]}
